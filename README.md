@@ -25,7 +25,7 @@ i am a technology enthusiast! trying to improve to the top!
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Java" width="26px" src="https://freepngimg.com/thumb/java/5-2-java-png-clipart.png" style="padding-right:10px;" />
 <br> 
-
+<br>
 
 ### Anurag's stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=FedericoUrbani)](https://github.com/yushi1007)
