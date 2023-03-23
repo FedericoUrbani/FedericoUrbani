@@ -11,8 +11,7 @@ i am a technology enthusiast! trying to improve to the top!
 
 ### Connect with me!
 [![Linkedin](./linkedin-light.svg)](https://www.linkedin.com/in/federico-urbani-4087a0205/)
-[![Linkedin](./linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 
 
 
