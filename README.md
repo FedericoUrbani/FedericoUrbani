@@ -11,8 +11,8 @@ i am a technology enthusiast! trying to improve to the top!
 
 ### Connect with me!
 <p align="left">
-<a href="https://www.linkedin.com/in/federico-urbani-4087a0205/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Giulia%20Contarino-blue?style=flat-square&logo=linkedin"></a>
-<a href="urbanifederico5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-giulia.contarino918@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/federico-urbani-4087a0205/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Federico%20Urbani-blue?style=flat-square&logo=linkedin"></a>
+<a href="urbanifederico5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-federicourbani5@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 
