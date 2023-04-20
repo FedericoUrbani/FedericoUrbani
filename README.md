@@ -20,7 +20,6 @@ i am a technology enthusiast! trying to improve to the top!
 
 ### Languages and Tools:
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=java)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)
