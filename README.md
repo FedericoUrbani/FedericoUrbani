@@ -10,7 +10,10 @@ i am a technology enthusiast! trying to improve to the top!
 - ⚡ Fun fact: work -> study -> eat -> sleep -> repeat!
 
 ### Connect with me!
-[![Linkedin](./linkedin-light.svg)](https://www.linkedin.com/in/federico-urbani-4087a0205/)
+<p align="left">
+<a href="https://www.linkedin.com/in/federico-urbani-4087a0205/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Giulia%20Contarino-blue?style=flat-square&logo=linkedin"></a>
+<a href="urbanifederico5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-giulia.contarino918@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 
 
