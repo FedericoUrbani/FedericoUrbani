@@ -2,7 +2,6 @@
 
 i am a technology enthusiast! trying to improve to the top!
 
-- 🔭 I’m currently studying in develhope
 - 🌱 I’m currently learning as much as i can!
 - 👯 I’m looking to collaborate with good people in good places!
 - 💬 Ask me about your questions!
